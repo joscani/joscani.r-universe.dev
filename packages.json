@@ -14,5 +14,9 @@
     {
         "package": "rodev",
         "url": "https://github.com/ropenscilabs/rodev"
+    },
+    {
+        "package": "getCredentials",
+        "url": "https://github.com/joscani/getCredentials"
     }
 ]
